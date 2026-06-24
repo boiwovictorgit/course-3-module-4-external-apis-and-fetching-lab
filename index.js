@@ -1,4 +1,4 @@
-// index.js
+
 const weatherApi = "https://api.weather.gov/alerts/active?area=";
 
 const input = document.getElementById("state-input");
